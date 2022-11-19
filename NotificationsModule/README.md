@@ -1,5 +1,5 @@
 ```lua
-local notifications = loadstring(game:HttpGet("https://raw.githubusercontent.com/r4in1ng/Scripts/main/NotificationsModule/Notifications.lua"))
+local notifications = loadstring(game:HttpGet("https://raw.githubusercontent.com/r4in1ng/Scripts/main/NotificationsModule/Notifications.lua"))()
 ```
 
 __Create a notification__
