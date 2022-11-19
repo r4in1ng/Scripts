@@ -1,6 +1,6 @@
 ### Initialization 
 ```lua
-if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://raw.githubusercontent.com/r4in1ng/Scripts/main/MT-API-V2/mt-api_v2.lua")) end
+if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://raw.githubusercontent.com/r4in1ng/Scripts/main/MT-API-V2/mt-api_v2.lua"))() end
 ```
 #### AddGetHook
 ```lua
