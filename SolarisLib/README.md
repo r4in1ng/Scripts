@@ -1,6 +1,8 @@
 # SolarisLib
 
 ```lua
+local SolarisLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/r4in1ng/Scripts/main/SolarisLib/Solaris.lua'))
+
 SolarisLib:New({
    Name - Title of the UI <string>
    FolderToSave - Name of the folder where the UI files will be stored <string>
